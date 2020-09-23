@@ -70,7 +70,7 @@ namespace UserMaintenance {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to keresztnev.
+        ///   Looks up a localized string similar to utonev.
         /// </summary>
         internal static string Firstname {
             get {
