@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{908D6247-1C4F-4634-B9AD-1DEA0A661F6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oroklodes", "..\Oroklodes\Oroklodes.csproj", "{27A05A9B-2050-4EA3-8431-0A1564AFFE7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908D6247-1C4F-4634-B9AD-1DEA0A661F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908D6247-1C4F-4634-B9AD-1DEA0A661F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908D6247-1C4F-4634-B9AD-1DEA0A661F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908D6247-1C4F-4634-B9AD-1DEA0A661F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A05A9B-2050-4EA3-8431-0A1564AFFE7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A05A9B-2050-4EA3-8431-0A1564AFFE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A05A9B-2050-4EA3-8431-0A1564AFFE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A05A9B-2050-4EA3-8431-0A1564AFFE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9871DF97-8400-42A7-AA3C-6279BC55A8B6}
+	EndGlobalSection
+EndGlobal
